@@ -1,5 +1,3 @@
-// Written by Max Welty, welty037
-
 import java.awt.Color;
 import java.util.Scanner;
 
